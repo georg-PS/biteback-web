@@ -1,0 +1,16 @@
+{
+  "name": "BiteBack",
+  "short_name": "BiteBack",
+  "description": "BiteBack Loyalty App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#009E6C",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23009E6C'/><text x='16' y='22' font-size='18' text-anchor='middle' fill='white'>B</text></svg>",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ]
+}
